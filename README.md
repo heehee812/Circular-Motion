@@ -1,9 +1,3 @@
-<style>
-.blue {
-  color: #7E6D7E;
-}
-</style>
-
 
 
 # <span class="blue">**circular motion**<span class="blue">
