@@ -21,7 +21,7 @@ Making the rope be shorten until it cannot bear the force the causing from the b
 Making the rope be broken
 -------
 
-#### [<span class="blue">**Vertical circular motion**</span>](https://https://www.glowscript.org/#/user/e.enyuu/folder/MyPrograms/program/verticalcircularmotion)
+#### [<span class="blue">**Vertical circular motion**</span>](https://www.glowscript.org/#/user/e.enyuu/folder/MyPrograms/program/verticalcircularmotion)
 ###### :point_up:click here
 ![](https://i.imgur.com/SiN5B15.png)
 ##### Two button in the page: **velocity component** & **acceleration component**
