@@ -11,6 +11,7 @@
 
 
 #### [<span class="blue">**Horizontal circular motion**<span class="blue">](https://www.glowscript.org/#/user/e.enyuu/folder/MyPrograms/program/horizontalcircularmotion) 
+##### (按滑鼠右鍵搭配滾輪滑動可翻轉圖形，單滑動滾輪可調整圖型大小)
 ###### :point_up:click here
 ![](https://i.imgur.com/QRcY3Ik.png)
 ##### Two button in the page: **rope change** & **rope break**
